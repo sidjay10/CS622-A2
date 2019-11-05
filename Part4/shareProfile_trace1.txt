@@ -1,0 +1,9 @@
+--------------Sharing Profile-------------------------
+Private Blocks : 		419
+Shared by 2 Threads : 		63
+Shared by 3 Threads : 		1872
+Shared by 4 Threads : 		32455
+Shared by 5 Threads : 		143250
+Shared by 6 Threads : 		244970
+Shared by 7 Threads : 		173831
+Shared by 8 Threads : 		124528
